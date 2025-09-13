@@ -45,6 +45,15 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Tela de Login:
+Tela  Login:
 <img width="1919" height="797" alt="image" src="https://github.com/user-attachments/assets/10103e1d-91b4-4228-a6d9-de7cc1190f09" />
+Tela Registro Novo Usuario
+<img width="1914" height="737" alt="image" src="https://github.com/user-attachments/assets/89409156-fed4-4d9c-a336-e28377f8b60d" />
+Dash Board
+<img width="1918" height="827" alt="image" src="https://github.com/user-attachments/assets/8487c322-e5da-4a33-8270-a23f6bd0030c" />
+Modal Novo Usuario o Mesmo do Editar Usuario
+<img width="1914" height="803" alt="image" src="https://github.com/user-attachments/assets/f27271a4-ad0d-4186-8fab-5ba1420cf565" />
+
+
+
 
